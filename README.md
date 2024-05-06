@@ -1,6 +1,6 @@
 # Tic_Tac_Toe
 
-Developed a Tic-Tac-Toe game application by u
+Developed a Tic-Tac-Toe game application by using Java Programming language with the help of
 - Creating a Tic-Tac-Toe game using Java Swing and AWT involves several components and functionalities.
   
   Here's an overview of how you can structure and implement this project:
