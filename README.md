@@ -14,7 +14,7 @@ Here's a breakdown of the components and their functionalities:
 1. GUI Components:
      - JFrame: This is the main window of your application.
      - JPanel: You can use this to group related components together, such as the Tic-Tac-Toe grid and status labels.
-     - JButton: Each cell in the Tic-Tac-Toe grid can be represented by a button. Clicking on a button corresponds to making a move in that cell.
+     - JButton: Each cell in the Tic-Tac-Toe grid can be represented by a button. Clicking on a button corresponds to making a move in that cell..
      - JLabel: You can use labels to display game status messages, such as whose turn it is or the outcome of the game (win, draw, etc.).
 
 2. Game Logic:
