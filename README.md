@@ -8,7 +8,7 @@ Developed a Tic-Tac-Toe game application by using Java Programming language with
 
 * Game Logic: You need to implement the logic of the Tic-Tac-Toe game. This includes keeping track of the game state (the positions of Xs and Os on the grid), determining when the game is over (either someone wins or it's a draw), and handling player moves.
 
-* Event Handling: You'll need to handle events when a player clicks on a grid cell to make a move. This involves attaching event listeners to the grid buttons and updating the game state accordingly.
+* Event Handling: You will need to handle events when a player clicks on a grid cell to make a move. This involves attaching event listeners to the grid buttons and updating the game state accordingly.
 
 Here's a breakdown of the components and their functionalities:
 1. GUI Components:
