@@ -1,7 +1,7 @@
 # Tic_Tac_Toe
 
 Developed a Tic-Tac-Toe game application by using Java Programming language with the help of Java AWT and Swing components, that helps me creating user-level desktop application.
-- Creating a Tic-Tac-Toe game using Java Swing and AWT involves several components and functionalities.
+- Creating a Tic-Tac-Toe game using Java Swing and AWT involves several components and functionalities. 
   
 Here's an overview of how you can structure and implement this project:
 * GUI Components: You'll use Swing and AWT to create the graphical user interface for the game. This includes buttons for the Tic-Tac-Toe grid and possibly labels for displaying game status or player turns.
