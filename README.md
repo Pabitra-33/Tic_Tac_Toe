@@ -11,7 +11,7 @@ You need to implement the logic of the Tic-Tac-Toe game. This includes keeping t
 
 * Event Handling: You will need to handle events when a player clicks on a grid cell to make a move. This involves attaching event listeners to the grid buttons and updating the game state accordingly.
 
-Here's a breakdown of the components and their functionalities:
+. Here's a breakdown of the components and their functionalities:
 1. GUI Components:
      - JFrame: This is the main window of your application.
      - JPanel: You can use this to group related components together, such as the Tic-Tac-Toe grid and status labels.
