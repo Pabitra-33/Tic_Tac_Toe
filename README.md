@@ -26,7 +26,7 @@ You need to implement the logic of the Tic-Tac-Toe game. This includes keeping t
      - Player Turns: Keep track of whose turn it is and switch turns after each move.
      - Game Over Detection: Determine when the game is over, either because someone has won or because the board is full (resulting in a draw).
 
-3. Event Handling:
+3. Event Handling :
     - Action Listeners: Attach action listeners to the grid buttons to handle player moves.
     - Updating Game State: When a player makes a move, update the internal game state accordingly.
     - Checking Win/Draw: After each move, check if the game is over (either someone has won or it's a draw) and display the appropriate message if so.
