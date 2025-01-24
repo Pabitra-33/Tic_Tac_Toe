@@ -32,7 +32,7 @@ You need to implement the logic of the Tic-Tac-Toe game. This includes keeping t
     - Checking Win/Draw: After each move, check if the game is over (either someone has won or it's a draw) and display the appropriate message if so.
 
 Additionally, you can add features like a reset button to start a new game, keeping track of the score, and possibly implementing a simple AI for a single-player mode. 
-Overall, building a Tic-Tac-Toe game using Java Swing and AWT involves integrating GUI components with game logic and event handling to create an interactive and functional game.
+Overall, building this Tic-Tac-Toe game using Java Swing and AWT involves integrating GUI components with game logic and event handling to create an interactive and functional game.
 
 
 
